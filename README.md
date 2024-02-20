@@ -54,6 +54,11 @@ make re
 ```
 
 ## Usage
+You can clone the project repository from GitHub using the following command:
+```
+git clone https://github.com/atay3/my_mastermind.git
+```
+
 The my_printf function can be used like printf in users' code. The format for this is:
 ```
 my_printf("%format_specifier", arg);
