@@ -2,7 +2,7 @@
 ***
 
 ## Task
-Create a function, my_printf, that produces an output similar to the printf function in C. The function should write output to stdout under the control of a format string that specifies how subsequent arguments are converted for output. Each conversion specification is ontroduced by the percent character and the arguments should correspond properly with the conversion specifier.
+Creating a function, my_printf, that produces an output similar to the printf function in C. The function should write output to stdout under the control of a format string that specifies how subsequent arguments are converted for output. Each conversion specification is ontroduced by the percent character and the arguments should correspond properly with the conversion specifier.
 
 This function should be able to handle the following:
 - signed decimal (%d)
